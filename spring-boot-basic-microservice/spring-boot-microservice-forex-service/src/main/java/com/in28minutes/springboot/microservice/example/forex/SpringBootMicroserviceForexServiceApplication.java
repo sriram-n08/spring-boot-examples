@@ -4,6 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
+//Testing git push
+
 @SpringBootApplication
 @EnableDiscoveryClient
 public class SpringBootMicroserviceForexServiceApplication {
